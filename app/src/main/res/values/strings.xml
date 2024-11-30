@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Electricity Bill Estimator</string>
+    <string name="title_text">Electricity Bill Calculator</string>
+    <string name="hint_units">Enter electricity units (kWh)</string>
+    <string name="hint_rebate">Enter rebate percentage (0-5%)</string>
+    <string name="default_result_text">Your bill will appear here.</string>
+</resources>
